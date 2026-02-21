@@ -5,7 +5,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
 ⭐ Explora decenas de otras versiones allí para más ideas. :contentReference[oaicite:1]{index=1}
 -->
 
-<h1 align="center">👋 Hola, soy TU NOMBRE</h1>
+<h1 align="center">👋 Hola, soy Jhon Celis</h1>
 <p align="center">
   <img width="300" src="https://github.com/tu_usuario/tu_usuario/raw/main/profile-screenshot.png" alt="GitHub Profile Image"/>
 </p>

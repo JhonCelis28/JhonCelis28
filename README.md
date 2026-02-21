@@ -45,11 +45,11 @@ logic ⚙️ + creativity 🧠 + discipline 🛰️
 
 ---
 
-## 📈 Activity Matrix
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonCelis28&theme=react-dark&bg_color=0d1117&hide_border=true" />
+![GitHub Snake Dark](https://raw.githubusercontent.com/JhonCelis28/JhonCelis28/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

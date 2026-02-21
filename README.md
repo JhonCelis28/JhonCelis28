@@ -4,16 +4,9 @@
 
 <div align="center">
 
-██████╗ ███████╗██╗ ██╗███████╗██╗██╗ ███████╗ ██████╗
-██╔══██╗██╔════╝██║ ██║██╔════╝██║██║ ██╔════╝██╔════╝
-██║ ██║█████╗ ██║ ██║███████╗██║██║ █████╗ ██║
-██║ ██║██╔══╝ ╚██╗ ██╔╝╚════██║██║██║ ██╔══╝ ██║
-██████╔╝███████╗ ╚████╔╝ ███████║██║███████╗███████╗╚██████╗
-╚═════╝ ╚══════╝ ╚═══╝ ╚══════╝╚═╝╚══════╝╚══════╝ ╚═════╝
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=DevSilec&fontSize=50&fontColor=00fff7&animation=fadeIn" />
 
-
-### **DevSilec — Software Alchemist & Code Explorer**
-🧪⚙️ _Turning logic into systems. Turning ideas into reality._
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=Software+Alchemist+%26+Code+Explorer;Turning+logic+into+systems.;Turning+ideas+into+reality." />
 
 </div>
 
@@ -21,13 +14,16 @@
 
 ## 🧬 About Me
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 > Welcome to my digital lab.
 
 I’m a **passionate software developer** driven by innovation, precision, and futuristic thinking.  
-I love designing **scalable systems**, crafting **clean architectures**, and experimenting with **cutting-edge technologies**.  
+I enjoy designing **scalable systems**, crafting **clean architectures**, and experimenting with **cutting-edge technologies**.
+
 For me, code is not just syntax — it’s **alchemy**, where logic, creativity, and discipline converge.
 
-I enjoy building solutions that are:
+### I enjoy building solutions that are:
 - ⚡ Efficient  
 - 🧠 Well-structured  
 - 🛰️ Future-ready  
@@ -38,24 +34,21 @@ I enjoy building solutions that are:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00fff7)
+<img src="https://github-readme-stats.vercel.app/api?username=JhonCelis28&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=0d1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonCelis28&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&background=0D1117&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=JhonCelis28&theme=radical&background=0D1117&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 Core Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
-| 💻 Frontend | 🧩 Backend | 🗄️ Database | 🛠️ Tools |
-|-----------|-----------|------------|---------|
-| ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff6f00) | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892BF) | ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00fff7) | ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff003c) |
-| ![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00bfff) | ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e) | ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00bcd4) | ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7) |
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -63,57 +56,51 @@ I enjoy building solutions that are:
 
 ## 🧪 Featured Projects
 
-### 🚀 **InfraStock**
-> _A smart system for infrastructure inventory control and consumable tracking._
-- 🔹 Stock alerts & expiration monitoring  
-- 🔹 Role-based access  
-- 🔹 Optimized for institutional environments  
-🔗 **Repo:** https://github.com/YOUR_USERNAME/infrastock
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### ⚙️ InfraStock
+> Smart inventory & infrastructure control system  
+- 🔔 Stock alerts & expiration monitoring  
+- 👤 Role-based access  
+- 📊 Optimized institutional workflows  
+
+🔗 https://github.com/JhonCelis28
 
 ---
 
-### 📚 **SICEFA – Academic Management System**
-> _A modular platform for academic grading and user roles._
-- 🔹 Admin, Instructor & Student modules  
-- 🔹 Reports, exports & dashboards  
-- 🔹 Designed with scalability in mind  
-🔗 **Repo:** https://github.com/YOUR_USERNAME/sicefa
-
----
-
-### ⚙️ **LogicLab**
-> _A collection of algorithms, exercises and system simulations._
-- 🔹 PSeInt, Java & PHP  
-- 🔹 Educational & structured  
-- 🔹 Focused on problem-solving  
-🔗 **Repo:** https://github.com/YOUR_USERNAME/logiclab
+### 📚 SICEFA
+> Academic grading & management platform  
+- 👨‍🏫 Admin, Instructor & Student roles  
+- 📄 Reports & exports  
+- 🧩 Modular architecture  
 
 ---
 
 ## 🌱 What I’m Learning
-- 🧠 Software architecture & clean code patterns  
-- 🛰️ Advanced JavaScript & backend optimization  
-- 🔐 Secure systems & data integrity  
+- 🧠 Software architecture & clean code principles  
+- ⚡ Backend optimization  
+- 🔐 Secure systems  
 
 ---
 
 ## 🛠️ What I’m Building
-- ⚡ Intelligent management systems  
-- 🧩 Modular web applications  
-- 🧪 Experimental tools for automation and control  
+- 🛰️ Smart management systems  
+- 🧪 Modular web applications  
+- ⚙️ Automation-focused tools  
 
 ---
 
 ## ✨ Code Manifesto
 
-> 𝘊𝘰𝘥𝘦 𝘪𝘴 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘸𝘩𝘢𝘵 𝘢 𝘮𝘢𝘤𝘩𝘪𝘯𝘦 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥𝘴 —  
-> 𝘪𝘵’𝘴 𝘸𝘩𝘢𝘵 𝘵𝘩𝘦 𝘧𝘶𝘵𝘶𝘳𝘦 𝘳𝘦𝘴𝘱𝘦𝘤𝘵𝘴.
+> 𝘊𝘰𝘥𝘦 𝘪𝘴 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘴𝘺𝘯𝘵𝘢𝘹.  
+> 𝘐𝘵’𝘴 𝘢 𝘴𝘺𝘴𝘵𝘦𝘮 𝘵𝘩𝘢𝘵 𝘴𝘩𝘢𝘱𝘦𝘴 𝘵𝘩𝘦 𝘧𝘶𝘵𝘶𝘳𝘦.
 
 ---
 
 <div align="center">
 
-🧭 **Exploring systems. Engineering the future.**  
-⚡ _Feel free to fork, explore, or connect._
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+
+⚡ **Exploring systems. Engineering the future.**
 
 </div>

@@ -1,67 +1,79 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a href="https://github.com/JhonCelis">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+</div>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
 
-- 🤝 I’m available for freelancing.
+🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+💻 Passionately building an **Arch Installer** project. 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+<div align="Center">
+<h1>Skills</h1>
+</div>
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+<div align="Center">
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+| Website | Programming |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
-<p align="center">
+</div>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<br>
+<br>
+<br>
 
-</p>
+<div align="Center">
+<h1>Operating Systems</h1>
 
-### Blogs posts
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
 
-<!-- BLOG-POST-LIST:START -->
+</div>
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
+<br>
+<br>
 
----
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-Last Edited on: 08/08/2022
+
+<div align="Center">
+
+| CtorW's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
+</div>
+
+<br>
+<br>
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+
+</div>
+
+------
+
+Credit: [Ctorw](https://github.com/CtorW)
+Last Edited on: 12/04/2005
